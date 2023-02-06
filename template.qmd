@@ -1,0 +1,15 @@
+---
+title: Ankivalenz
+format:
+  ankivalenz-html: default
+author: Harry Vangberg
+date: last-modified
+---
+
+## Introduction
+
+-   Side 1 :: Side 2
+
+-   Question ?:: Answer
+
+-   Answer ::? Question
