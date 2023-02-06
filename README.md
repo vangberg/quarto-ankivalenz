@@ -1,4 +1,4 @@
-# <%= title %> Format
+# Ankivalenz format for Quarto
 
 ## Installing
 
