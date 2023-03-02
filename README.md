@@ -66,7 +66,7 @@ Add `input_ext` and `input_dir` to `ankivalenz.json`:
 Render your book as usual:
 
 ```bash
-quarto render my-book.qmd
+quarto render .
 ```
 
 Generate the Anki deck:
