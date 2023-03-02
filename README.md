@@ -59,7 +59,7 @@ Add `input_ext` and `input_dir` to `ankivalenz.json`:
   "deck_id": 123456789,
   "deck_name": "My Deck",
   "input_ext": "ahtml",
-  "input_dir": "_ankivalenz"
+  "input_dir": "_book"
 }
 ```
 
