@@ -6,7 +6,7 @@ cards.
 
 ## Installation
 
-Install the extension to your Quarto projectL
+Install the extension to your Quarto project:
 
 ```bash
 quarto add vangberg/quarto-ankivalenz
