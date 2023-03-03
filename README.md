@@ -15,7 +15,7 @@ quarto add vangberg/quarto-ankivalenz
 Create an Ankivalenz configuration file:
 
 ```bash
-ankivalenz init
+ankivalenz init .
 ```
 
 ### Quarto Document
@@ -45,10 +45,10 @@ ankivalenz run .
 
 ### Quarto Book
 
-Add the `ankivalenz-html` format to your book's `formats` list in `_quarto.yml`:
+Add the `ankivalenz-html` format to your book's `format` list in `_quarto.yml`:
 
 ```yaml
-formats:
+format:
   ankivalenz-html: default
 ```
 
