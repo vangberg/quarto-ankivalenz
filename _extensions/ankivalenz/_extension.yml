@@ -6,6 +6,7 @@ contributes:
   formats:
     html:
       minimal: true
+      number-sections: false
       output-ext: "ahtml"
       template-partials:
         - "partials/title-block.html"
