@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.8.0 (2023-03-14)
 
 - [BUGFIX] Use mathjax to get Anki-compatible LaTeX-output
 
