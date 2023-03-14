@@ -10,3 +10,4 @@ contributes:
       output-ext: "ahtml"
       template-partials:
         - "partials/title-block.html"
+      html-math-method: mathjax
